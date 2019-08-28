@@ -4,7 +4,8 @@ def create_an_empty_array
 end
 
 defcreate  create_an_array
-  cre
+  create_an_empty_array
+  []
 end
 
 def add_element_to_end_of_array(array, element)
